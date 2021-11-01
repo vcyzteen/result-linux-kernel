@@ -14,7 +14,7 @@
         * ( X00T/X00TD ) for codename and this kernel for X00T/X00TD
 
   * reason why i make kernel again?
-    * I think i like with this situation because i can think how machine can be running. How to process system can be running,stop and killing. Knowing what is kernel for. And have 1 more reason 'because i can't make kernel in device oppo ( i have been research for my oppo device how can i modified "oprek" ) but until now i fon't find it. Maybe oppo its like this ( very hard to modified "oprek" ) or not all device can be modified "oprek
+    * I think i like with this situation because i can think how machine can be running. How to process system can be running,stop and killing. Knowing what is kernel for.
 
   * can i use your kernel?
     * Of course you can use it. This is open source. Free for download, and install
