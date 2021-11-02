@@ -9,7 +9,7 @@
     * I have 2 devices for now.
 
       * oppo
-        * -
+        * empty
       * asus
         * ( X00T/X00TD ) for codename and this kernel for X00T/X00TD
 
